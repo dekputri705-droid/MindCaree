@@ -111,14 +111,14 @@
             <div class="col-lg-6 align-self-center">
                 <div class="about-us-info-wrap">
                     <div class="section-title-area ltn__section-title-2--- mb-20">
-                        <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">MindQuilo A mental
+                        <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">MindCare A mental
                             health counseling system</h6>
                         <h1 class="section-title">Accessible and Quality mental health care for everyone!
                         </h1>
                         <p>Your mind is your most valuable asset, and it deserves the best care possible. That’s why
-                            MindQuilo offers you a smart way to care for your mind, by providing you with online
+                            MindCare offers you a smart way to care for your mind, by providing you with online
                             counseling and more for your mental well-being.
-                            MindQuilo helps you access professional and convenient mental health care from
+                            MindCare helps you access professional and convenient mental health care from
                             anywhere, anytime, and at your own pace. </p>
                     </div>
                     <ul class="ltn__list-item-half clearfix">
