@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>MindQuilo - Navigating Minds, Building Wellness</title>
+    <title>MindCare</title>
     <meta name="robots" content="noindex, follow" />
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -35,8 +35,8 @@
                             <ul>
                                 <li><a href="mailto:pulokbiswas.cse@gmail.com"><i
                                             class="icon-mail"></i>pulokbiswas.cse@gmail.com</a></li>
-                                <li><a href="#"><i class="icon-placeholder"></i>Katasur, Mohammadpur, 1207 Dhaka,
-                                        Bangladesh</a></li>
+                                <li><a href="#"><i class="icon-placeholder"></i>Semarang,
+                                        Indonesia</a></li>
                             </ul>
                         </div>
                     </div>
@@ -51,7 +51,7 @@
                                                 <li><a href="#" class="dropdown-toggle"><span
                                                             class="active-currency">English</span></a>
                                                     <ul>
-                                                        <li><a href="#">Bengali</a></li>
+                                                        <li><a href="#">Indonesia</a></li>
                                                         <li><a href="#">English</a></li>
                                                     </ul>
                                                 </li>
