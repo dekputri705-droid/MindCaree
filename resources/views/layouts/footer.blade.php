@@ -9,13 +9,13 @@
                                 <img src="view/img/logo.png" alt="Logo">
                             </div>
                         </div>
-                        <p>MindQuilo is the smart way to care for your mind.</p>
+                        <p>MindCare makes caring for your mind simple and empowering.</p>
                         <div class="footer-address">
                             <ul>
                                 <li>
                                     <div class="footer-address-icon">
                                         <a href="https://www.google.com/maps/place/Katasur,+Mohammadpur+1207,+Dhaka,+Bangladesh" target="_blank">
-                                            <i class="icon-placeholder"></i>Katasur, Mohammadpur, 1207 Dhaka, Bangladesh
+                                            <i class="icon-placeholder"></i>Semarang, Indonesia
                                         </a>
                                     </div>
                                 </li>
@@ -32,7 +32,7 @@
                                         <i class="icon-mail"></i>
                                     </div>
                                     <div class="footer-address-info">
-                                        <p><a href="mailto:pulok.contact@gmail.com">pulok.contact@gmail.com</a>
+                                        <p><a href="mailto:dekputri705@gmail.com">dekputri705@gmail.com</a>
                                         </p>
                                     </div>
                                 </li>
@@ -115,7 +115,7 @@
             <div class="row">
                 <div class="col-md-6 col-12">
                     <div class="ltn__copyright-design clearfix">
-                        <p>All Rights Reserved MindQuilo @ Pulok Biswas <span class="current-year"></span></p>
+                        <p>All Rights Reserved MindCare @ Putri Mala <span class="current-year"></span></p>
                     </div>
                 </div>
                 <div class="col-md-6 col-12 align-self-center">

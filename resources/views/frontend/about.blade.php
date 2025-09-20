@@ -35,17 +35,17 @@
                         <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color d-none">About Us
                         </h6>
                         <h1 class="section-title">Aqila</h1>
-                        <p>MindQuilo connects you with qualified and experienced mental health professionals
-                            who can help you with various issues such as stress, anxiety, depression, trauma,
-                            addiction, relationships, and more.</p>
+                        <p>MindCare memberikan dukungan melalui alat self-assessment, sumber edukasi, dan komunitas suportif
+                            yang membantu Anda memahami serta mengelola berbagai tantangan seperti stres, kecemasan, depresi,
+                            kecanduan, hubungan, dan lainnya.</p>
                     </div>
                     <ul class="ltn__list-item-1 ltn__list-item-1-before--- clearfix">
-                        <li><i class="fas fa-check-square"></i> Offers self-help resources and community support
-                            to help you improve your mental well-being and resilience.</li>
-                        <li><i class="fas fa-check-square"></i> Helps you access professional and
-                            convenient mental health care from anywhere, anytime, and at your own pace.</li>
-                        <li><i class="fas fa-check-square"></i> Improve your mental well-being, such as
-                            cognitive behavioral therapy, positive psychology, stress management, and more.</li>
+                        <li><i class="fas fa-check-square"></i> Menawarkan sumber daya mandiri dan dukungan komunitas
+                            untuk membantu Anda meningkatkan kesejahteraan mental dan ketahanan Anda.</li>
+                        <li><i class="fas fa-check-square"></i> Membantu Anda mengakses perawatan kesehatan mental profesional dan
+                            perawatan kesehatan mental yang nyaman dari mana saja, kapan saja, dan dengan kecepatan Anda sendiri.</li>
+                        <li><i class="fas fa-check-square"></i> Meningkatkan kesejahteraan mental Anda, seperti
+                            terapi perilaku kognitif, psikologi positif, manajemen stres, dan lainnya.</li>
                     </ul>
                     <div class="about-author-info-2 border-top mt-30 pt-20">
                         <ul>
@@ -99,9 +99,9 @@
                     </div>
                     <div class="ltn__feature-info">
                         <h4><a href="service-details.html">Empathetic Design</a></h4>
-                        <p>At its core, design is visual storytelling. MindQuilo’s website exudes a sense of
-                            tranquility. Let muted colors and stirring images create the ambiance, resonating a
-                            sense of empathy.</p>
+                        <p>At its core, design is visual storytelling. MindCare menghadirkan suasana ketenangan
+                            melalui penggunaan warna yang lembut dan gambar yang menggugah. Biarkan elemen-elemen ini
+                            menciptakan suasana yang resonan dengan empati.</p>
                     </div>
                 </div>
             </div>
@@ -113,9 +113,9 @@
                     </div>
                     <div class="ltn__feature-info">
                         <h4><a href="service-details.html">Holistic Approach</a></h4>
-                        <p>Straightforward messaging, user-friendly navigation pages. Whether you’re looking for
-                            counseling, self-help resources, or community connections, MindQuilo provides a
-                            holistic experience.</p>
+                        <p>Pesan yang jelas, halaman navigasi yang ramah pengguna. Apakah Anda mencari
+                            konseling, sumber daya mandiri, atau koneksi komunitas, MindCare menyediakan
+                            pengalaman yang holistik.</p>
                     </div>
                 </div>
             </div>
@@ -127,7 +127,7 @@
                     </div>
                     <div class="ltn__feature-info">
                         <h4><a href="service-details.html">Content</a></h4>
-                        <p>Dive into our niche-specific content—books, games, and more. MindQuilo faithfully
+                        <p>Dive into our niche-specific content—books, games, and more. MindCare faithfully
                             represents your mental health needs, drawing in new clients who seek quality
                             information and support.</p>
                     </div>
@@ -141,9 +141,9 @@
                     </div>
                     <div class="ltn__feature-info">
                         <h4><a href="service-details.html">Anytime, Anywhere</a></h4>
-                        <p>Mental health doesn’t wait for office hours. We ensures 24/7 accessibility. Whether
-                            you’re struggling to express your pain or seeking urgent assistance, our website is
-                            your reliable companion.</p>
+                        <p>Kesehatan mental tidak menunggu jam kerja. Kami memastikan aksesibilitas 24/7. Apakah
+                            Anda kesulitan mengekspresikan rasa sakit Anda atau mencari bantuan mendesak, situs web kami adalah
+                            teman setia Anda.</p>
                     </div>
                 </div>
             </div>
@@ -220,9 +220,9 @@
                         <h3><a href="service-details.html">Holistic Approach</a></h3>
                     </div>
                     <div class="ltn__feature-info">
-                        <p>Our website offers straightforward messaging, user-friendly navigation pages. Whether
-                            you’re looking for counseling, self-help resources, or community connections,
-                            MindQuilo provides a holistic experience.</p>
+                        <p>Our website offers pesan yang jelas, halaman navigasi yang ramah pengguna. Apakah Anda mencari
+                            konseling, sumber daya mandiri, atau koneksi komunitas, MindCare menyediakan
+                            pengalaman yang holistik.</p>
                     </div>
                 </div>
             </div>
@@ -236,9 +236,9 @@
                         <h3><a href="service-details.html">Accessible Anytime, Anywhere</a></h3>
                     </div>
                     <div class="ltn__feature-info">
-                        <p>MindQuilo ensures 24/7 accessibility. Whether you’re struggling to express your pain
-                            or seeking urgent assistance, our website is your reliable partner on the journey to
-                            better mental well-being.</p>
+                        <p>MindCare memastikan aksesibilitas 24/7. Apakah Anda kesulitan mengekspresikan rasa sakit
+                            Anda atau mencari bantuan mendesak, situs web kami adalah teman setia Anda dalam perjalanan
+                            menuju kesejahteraan mental yang lebih baik.</p>
                     </div>
                 </div>
             </div>
@@ -252,7 +252,7 @@
                         <h3><a href="service-details.html">Expertly Curated Content</a></h3>
                     </div>
                     <div class="ltn__feature-info">
-                        <p>MindQuilo’s website exudes a sense of tranquility, resonating with empathy. And
+                        <p>MindCare’s website exudes a sense of tranquility, resonating with empathy. And
                             diverse needs. Explore our niche-specific content, including books, games, and other
                             mental health resources. </p>
                     </div>

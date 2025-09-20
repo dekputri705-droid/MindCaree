@@ -5,7 +5,7 @@
     <base href="/public">
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>MindQuilo - Navigating Minds, Building Wellness</title>
+    <title>MindCare</title>
     <meta name="robots" content="noindex, follow" />
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -25,9 +25,9 @@
                     <div class="col-md-7">
                         <div class="ltn__top-bar-menu">
                             <ul>
-                                <li><a href="mailto:pulok.contact@gmail.com"><i class="icon-mail"></i>pulok.contact@gmail.com</a></li>
+                                <li><a href="mailto:dekputri705@gmail.com"><i class="icon-mail"></i>dekputri705@gmail.com</a></li>
                                 <li><a href="https://www.google.com/maps/place/Katasur,+Mohammadpur+1207,+Dhaka,+Bangladesh" target="_blank">
-                                    <i class="icon-placeholder"></i>Katasur, Mohammadpur, 1207 Dhaka, Bangladesh
+                                    <i class="icon-placeholder"></i>Semarang, Indonesia
                                 </a></li>
                             </ul>
                         </div>

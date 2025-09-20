@@ -62,8 +62,8 @@
         </div>
     </div>
 
-    <!-- Dashboard Button (Visible to Admins with mindquilo.com Email) -->
-    @if(Str::endsWith($user->email, '@mindquilo.com'))
+    <!-- Dashboard Button (Visible to Admins with mindcare.com Email) -->
+    @if(Str::endsWith($user->email, '@mindcare.com'))
     <div class="text-center mt-3">
         <a href="{{ route('admin.dashboard') }}" class="theme-btn-1 btn btn-effect-1 text-uppercase" target="_blank" rel="noopener noreferrer">Dashboard</a>
     </div>

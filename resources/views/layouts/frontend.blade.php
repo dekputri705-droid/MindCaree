@@ -33,8 +33,8 @@
                     <div class="col-md-7">
                         <div class="ltn__top-bar-menu">
                             <ul>
-                                <li><a href="mailto:pulokbiswas.cse@gmail.com"><i
-                                            class="icon-mail"></i>pulokbiswas.cse@gmail.com</a></li>
+                                <li><a href="mailto:dekputri705@gmail.com"><i
+                                            class="icon-mail"></i>dekputri705@gmail.com</a></li>
                                 <li><a href="#"><i class="icon-placeholder"></i>Semarang,
                                         Indonesia</a></li>
                             </ul>
@@ -272,7 +272,7 @@
                                     <img src="view/img/logo.png" alt="Logo">
                                 </div>
                             </div>
-                            <p>MindQuilo is the smart way to care for your mind.</p>
+                            <p>MindCare makes caring for your mind simple and empowering.</p>
                             <div class="footer-address">
                                 <ul>
                                     <li>
@@ -280,7 +280,7 @@
                                             <i class="icon-placeholder"></i>
                                         </div>
                                         <div class="footer-address-info">
-                                            <p>Katasur, Mohammadpur, 1207 Dhaka, Bangladesh</p>
+                                            <p>Semarang, Indonesia</p>
                                         </div>
                                     </li>
                                     <li>
@@ -296,7 +296,7 @@
                                             <i class="icon-mail"></i>
                                         </div>
                                         <div class="footer-address-info">
-                                            <p><a href="mailto:pulokbiswas.cse@gmail.com">pulokbiswas.cse@gmail.com</a>
+                                            <p><a href="mailto:dekputri705@gmail.com">dekputri705@gmail.com</a>
                                             </p>
                                         </div>
                                     </li>
@@ -379,7 +379,7 @@
                 <div class="row">
                     <div class="col-md-6 col-12">
                         <div class="ltn__copyright-design clearfix">
-                            <p>All Rights Reserved MindQuilo @ Pulok Biswas <span class="current-year"></span></p>
+                            <p>All Rights Reserved MindCare @ Putri Mala <span class="current-year"></span></p>
                         </div>
                     </div>
                     <div class="col-md-6 col-12 align-self-center">

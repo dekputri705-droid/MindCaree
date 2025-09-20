@@ -36,7 +36,7 @@
                             <img src="view/img/icons/10.png" alt="Icon Image" style="width: 40px;">
                         </div>
                         <h3>Email Address</h3>
-                        <p><a href="mailto:pulok.contact@gmail.com" class="text-decoration-none">pulok.contact@gmail.com</a></p>
+                        <p><a href="mailto:dekputri705@gmail.com" class="text-decoration-none">dekputri705@gmail.com</a></p>
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -77,9 +77,9 @@
                                 <div class="card">
                                     <img src="view/img/team/ceo.png" class="card-img-top" alt="CEO">
                                     <div class="card-body text-center">
-                                        <h5 class="card-title">Pulok Biswas</h5>
+                                        <h5 class="card-title">Dwi Putri</h5>
                                         <p class="card-text">CEO</p>
-                                        <p><a href="mailto:johndoe@company.com">pulok.contact@gmail.com</a></p>
+                                        <p><a href="mailto:dekputri705@company.com">dekputri705@gmail.com</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -87,9 +87,9 @@
                                 <div class="card">
                                     <img src="view/img/team/cfo.png" class="card-img-top" alt="CFO">
                                     <div class="card-body text-center">
-                                        <h5 class="card-title">Pulok Biswas</h5>
+                                        <h5 class="card-title">Mala</h5>
                                         <p class="card-text">CFO</p>
-                                        <p><a href="mailto:pulok.contact@gmail.com">pulok.contact@gmail.com</a></p>
+                                        <p><a href="mailto:mala@company.com">mala@company.com</a></p>
                                     </div>
                                 </div>
                             </div>
