@@ -36,13 +36,13 @@ class CreateUsersTable extends Migration
 
         User::create(
             [
-                'name' => 'Super Admin Pulok',
-                'email' => 'pulok@mindquilo.com',
+                'name' => 'Super Admin Putri',
+                'email' => 'putri@mindcare.com',
                 'password' => bcrypt('456456456'),
-                'phone' => '01793651750',
-                'address' => 'Dhaka Bangladesh',
-                'age' => '26',
-                'gender' => 'Male',
+                'phone' => '08793754694',
+                'address' => 'Indonesia',
+                'age' => '13',
+                'gender' => 'Female',
                 'occupation' => 'Super Admin',
                 'image' => 'admin.jpg',
                 'email_verified_at' => now(),
@@ -51,13 +51,13 @@ class CreateUsersTable extends Migration
         );
         User::create(
             [
-                'name' => 'Admin Pulok',
-                'email' => 'admin@mindquilo.com',
+                'name' => 'Admin Mala',
+                'email' => 'mala@mindcare.com',
                 'password' => bcrypt('456456456'),
                 'phone' => '01793651750',
-                'address' => 'Dhaka Bangladesh',
-                'age' => '26',
-                'gender' => 'Male',
+                'address' => 'Indonesia',
+                'age' => '17',
+                'gender' => 'Female',
                 'occupation' => 'Admin',
                 'image' => 'admin.jpg',
                 'email_verified_at' => now(),
@@ -67,13 +67,13 @@ class CreateUsersTable extends Migration
 
         User::create(
             [
-                'name' => 'Doctor Pulok',
-                'email' => 'doctor@mindquilo.com',
+                'name' => 'Dewi',
+                'email' => 'dewi@mindcare.com',
                 'password' => bcrypt('12345678'),
                 'phone' => '01793651750',
-                'address' => 'Dhaka Bangladesh',
-                'age' => '26',
-                'gender' => 'Male',
+                'address' => 'Indonesia',
+                'age' => '20',
+                'gender' => 'Female',
                 'occupation' => 'Doctor',
                 'image' => 'user.jpg',
                 'email_verified_at' => now(),
