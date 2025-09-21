@@ -6,7 +6,7 @@
                     <div class="footer-widget footer-about-widget">
                         <div class="footer-logo">
                             <div class="site-logo">
-                                <img src="view/img/logo.png" alt="Logo">
+                                <img src="view/img/logokecil.png" alt="Logo">
                             </div>
                         </div>
                         <p>MindCare makes caring for your mind simple and empowering.</p>
