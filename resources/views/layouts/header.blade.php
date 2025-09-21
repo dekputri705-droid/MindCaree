@@ -72,7 +72,7 @@
                     <div class="col">
                         <div class="site-logo-wrap">
                             <div class="site-logo">
-                                <a href="{{ route('index') }}"><img src="{{ asset('view/img/logo.png') }}" alt="Logo"></a>
+                                <a href="{{ route('index') }}"><img src="{{ asset('view/img/logoheaderMindCare.png') }}" alt="Logo"></a>
                             </div>
                             <div class="get-support clearfix d-none">
                                 <div class="get-support-icon">
