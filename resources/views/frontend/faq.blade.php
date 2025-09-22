@@ -30,66 +30,96 @@
                         <!-- card -->
                         <div class="card">
                             <h6 class="collapsed ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-2-1" aria-expanded="false">
-                                Where can I go to find therapy?
+                                Apa itu MindCare?
                             </h6>
                             <div id="faq-item-2-1" class="collapse" data-bs-parent="#accordion_2">
                                 <div class="card-body">
-                                    <p>Different kinds of therapy are more effective based on the nature of the mental health condition and symptoms. For example, children will benefit from a therapist who specializes in children’s mental health. Explore various therapy options to find what suits you best. </p>
+                                    <p>MindCare adalah platform digital berbasis website yang membantu Anda menjaga kesehatan mental melalui self-assessment, konten edukasi, komunitas online, serta layanan konseling daring.</p>
                                 </div>
                             </div>
                         </div>
                         <!-- card -->
                         <div class="card">
                             <h6 class="collapsed ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-2-2" aria-expanded="false">
-                                What are the different types of mental health professionals?
+                                Bagaimana cara melakukan self-assessment?
                             </h6>
                             <div id="faq-item-2-2" class="collapse" data-bs-parent="#accordion_2">
                                 <div class="card-body">
-                                    <p>There are many types of mental health professionals, each with specific expertise. Finding the right one for you may require some research. Consider psychologists, psychiatrists, counselors, social workers, and more.</p>
+                                    <p>Anda dapat mengakses fitur self-assessment langsung melalui website. Jawaban Anda akan diproses otomatis oleh sistem, lalu menghasilkan skor dan insight yang bisa membantu memahami kondisi psikologis Anda.</p>
                                 </div>
                             </div>
                         </div>
                         <!-- card -->
                         <div class="card">
                             <h6 class="collapsed ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-2-3" aria-expanded="false">
-                                Where can I find a support group?
+                                Apakah konseling di MindCare dilakukan secara langsung?
                             </h6>
                             <div id="faq-item-2-3" class="collapse" data-bs-parent="#accordion_2">
                                 <div class="card-body">
-                                    <p>Peer support is valuable. Many organizations offer support groups for consumers, family members, and friends. Some are peer-led, while others are led by mental health professionals. Connecting with others who share similar experiences can be beneficial.</p>
+                                    <p>Konseling dilakukan secara online melalui platform pihak ketiga (misalnya WhatsApp chatbot, atau integrasi dengan konselor mitra). Jadi, Anda tidak perlu datang ke kantor fisik.</p>
                                 </div>
                             </div>
                         </div>
                         <!-- card -->
                         <div class="card">
                             <h6 class="collapsed ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-2-4" aria-expanded="false">
-                                How can I access inpatient care?
+                                Apa saja fitur utama yang tersedia di MindCare?
                             </h6>
                             <div id="faq-item-2-4" class="collapse" data-bs-parent="#accordion_2">
                                 <div class="card-body">
-                                    <p>Inpatient care can help stabilize individuals on new medications, adjust to new symptoms, or provide necessary help during a crisis. If you or someone you know is in crisis, seek inpatient care as needed.</p>
+                                    <p>MindCare menyediakan:
+
+                                        1. Tes self-assessment psikologi
+
+                                        2. Konten edukasi berupa artikel, video, dan kuis
+
+                                        3. Komunitas online melalui Discord/Telegram
+
+                                        4. Chatbot WhatsApp untuk dukungan cepat</p>
                                 </div>
                             </div>
                         </div>
                         <!-- card -->
                         <div class="card">
                             <h6 class="collapsed ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-2-5" aria-expanded="false">
-                                Where can I learn more about clinical trials?
+                                Bagaimana saya bisa bergabung dengan komunitas?
                             </h6>
                             <div id="faq-item-2-5" class="collapse" data-bs-parent="#accordion_2">
                                 <div class="card-body">
-                                    <p>Clinical trials involve testing new medications or treatment approaches. While they can offer innovative solutions, be aware of associated risks before enrolling in a trial.</p>
+                                    <p>Anda dapat terhubung dengan komunitas diskusi melalui link Discord atau Telegram yang tersedia di platform. Komunitas ini memungkinkan Anda berbagi pengalaman dan berdiskusi dengan pengguna lain.</p>
                                 </div>
                             </div>
                         </div>
                         <!-- card -->
                         <div class="card">
                             <h6 class="collapsed ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-2-6" aria-expanded="false">
-                                What is a Psychiatric Advance Directive?
+                                Apakah layanan MindCare berbayar?
                             </h6>
                             <div id="faq-item-2-6" class="collapse" data-bs-parent="#accordion_2">
                                 <div class="card-body">
-                                    <p>Similar to a medical advance directive, a psychiatric advance directive is a legal document completed during wellness. It provides instructions regarding treatment or services one wishes to have or not have during a mental health crisis. It can influence your care during challenging times.</p>
+                                    <p>Sebagian besar fitur edukasi dan komunitas bisa diakses gratis. Namun, layanan konseling pribadi mungkin memiliki biaya sesuai kebijakan konselor mitra.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- card -->
+                        <div class="card">
+                            <h6 class="collapsed ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-2-7" aria-expanded="false">
+                                Apakah data saya aman di MindCare?
+                            </h6>
+                            <div id="faq-item-2-7" class="collapse" data-bs-parent="#accordion_2">
+                                <div class="card-body">
+                                    <p>Ya, MindCare menjaga kerahasiaan data pengguna dengan sistem keamanan yang sesuai standar. Informasi pribadi, hasil tes, maupun percakapan tidak akan dibagikan tanpa persetujuan Anda.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- card -->
+                        <div class="card">
+                            <h6 class="collapsed ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-2-8" aria-expanded="false">
+                                Apakah MindCare bisa digunakan saat krisis darurat?
+                            </h6>
+                            <div id="faq-item-2-8" class="collapse" data-bs-parent="#accordion_2">
+                                <div class="card-body">
+                                    <p>MindCare dapat membantu memberikan dukungan awal. Namun, jika Anda berada dalam kondisi krisis serius, segera hubungi layanan darurat medis atau tenaga profesional terdekat.</p>
                                 </div>
                             </div>
                         </div>
