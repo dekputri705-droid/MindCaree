@@ -66,6 +66,7 @@
                 </div>
             </div>
         </div>
+
         <!-- KONTEN 2 -->
         <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up" data-aos-delay="">
             <div class="rk-podcast-card rk-card h-100 border-0 rk-shadow-hover">
@@ -108,6 +109,7 @@
                 </div>
             </div>
         </div>
+
         <!-- KONTEN 3 -->
         <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up" data-aos-delay="">
             <div class="rk-podcast-card rk-card h-100 border-0 rk-shadow-hover">
