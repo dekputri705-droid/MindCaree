@@ -58,7 +58,7 @@
                         <div class="rk-video-duration">
                             <small class="text-muted"><i class="far fa-clock me-1"></i> 03.18</small>
                         </div>
-                        <a href="https://www.youtube.com/watch?v=3lWja7H9_Zw" class="btn btn-sm btn-outline-info"
+                        <a href="https://www.youtube.com/watch?v=3lWja7H9_Zw" class="btn btn-sm btn-outline-success"
                             target="blank">
                             Tonton <i class="fas fa-arrow-right ms-1"></i>
                         </a>
@@ -101,7 +101,7 @@
                         <div class="rk-video-duration">
                             <small class="text-muted"><i class="far fa-clock me-1"></i> 09.27</small>
                         </div>
-                        <a href="https://www.youtube.com/watch?v=MKJppZ18FYU" class="btn btn-sm btn-outline-info"
+                        <a href="https://www.youtube.com/watch?v=MKJppZ18FYU" class="btn btn-sm btn-outline-success"
                             target="blank">
                             Tonton <i class="fas fa-arrow-right ms-1"></i>
                         </a>
@@ -144,7 +144,7 @@
                         <div class="rk-video-duration">
                             <small class="text-muted"><i class="far fa-clock me-1"></i> 10.36</small>
                         </div>
-                        <a href="https://www.youtube.com/watch?v=M5vu9vs0olc" class="btn btn-sm btn-outline-info"
+                        <a href="https://www.youtube.com/watch?v=M5vu9vs0olc" class="btn btn-sm btn-outline-success"
                             target="blank">
                             Tonton <i class="fas fa-arrow-right ms-1"></i>
                         </a>
