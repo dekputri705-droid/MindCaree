@@ -679,7 +679,7 @@
                                 <ul class="nav">
                                     <li class="nav-item">
                                         <span href="javascript:void(0);" class="nav-link">
-                                            All Rights Reserved by Pulok Biswas
+                                            All Rights Reserved by Putri Mala
                                         </span>
                                     </li>
                                     <li class="nav-item">
@@ -693,7 +693,7 @@
                                 <ul class="nav">
                                     <li class="nav-item">
                                         <span href="javascript:void(0);" class="nav-link">
-                                            Technology Partner Pulok
+                                            Mitra Teknologi Putri Mala
                                         </span>
                                     </li>
                                     <li class="nav-item">

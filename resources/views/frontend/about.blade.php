@@ -34,7 +34,7 @@
                     <div class="section-title-area ltn__section-title-2--- mb-30">
                         <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color d-none">About Us
                         </h6>
-                        <h1 class="section-title">Aqila</h1>
+                        <h1 class="section-title">MindCare</h1>
                         <p>MindCare memberikan dukungan melalui alat self-assessment, sumber edukasi, dan komunitas suportif
                             yang membantu Anda memahami serta mengelola berbagai tantangan seperti stres, kecemasan, depresi,
                             kecanduan, hubungan, dan lainnya.</p>
@@ -55,7 +55,7 @@
                                         <img src="view/img/blog/author.png" alt="#">
                                     </div>
                                     <div class="author-name-designation">
-                                        <h4 class="mb-0">Pulok Biswas</h4>
+                                        <h4 class="mb-0">Putri Mala</h4>
                                         <small>Admin</small>
                                     </div>
                                 </div>
@@ -86,7 +86,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area ltn__section-title-2--- text-center">
-                    <h1 class="section-title">Core Features</h1>
+                    <h1 class="section-title">Fitur Utama</h1>
                 </div>
             </div>
         </div>
@@ -98,8 +98,8 @@
                         <img src="view/img/icons/icon-img/24.png" alt="#">
                     </div>
                     <div class="ltn__feature-info">
-                        <h4><a href="service-details.html">Empathetic Design</a></h4>
-                        <p>At its core, design is visual storytelling. MindCare menghadirkan suasana ketenangan
+                        <h4><a href="service-details.html">Desain Empatik</a></h4>
+                        <p>Pada intinya, desain adalah cerita visual. MindCare menghadirkan suasana ketenangan
                             melalui penggunaan warna yang lembut dan gambar yang menggugah. Biarkan elemen-elemen ini
                             menciptakan suasana yang resonan dengan empati.</p>
                     </div>
@@ -127,9 +127,9 @@
                     </div>
                     <div class="ltn__feature-info">
                         <h4><a href="service-details.html">Content</a></h4>
-                        <p>Dive into our niche-specific content—books, games, and more. MindCare faithfully
-                            represents your mental health needs, drawing in new clients who seek quality
-                            information and support.</p>
+                        <p>Menyelam ke dalam konten khusus niche kami—buku, permainan, dan lainnya. MindCare setia
+                            mewakili kebutuhan kesehatan mental Anda, menarik klien baru yang mencari kualitas
+                            informasi dan dukungan.</p>
                     </div>
                 </div>
             </div>
@@ -140,8 +140,8 @@
                         <img src="view/img/icons/icon-img/27.png" alt="#">
                     </div>
                     <div class="ltn__feature-info">
-                        <h4><a href="service-details.html">Anytime, Anywhere</a></h4>
-                        <p>Kesehatan mental tidak menunggu jam kerja. Kami memastikan aksesibilitas 24/7. Apakah
+                        <h4><a href="service-details.html">Kapan saja, di mana saja</a></h4>
+                        <p>MindCare tidak menunggu jam kerja. Kami memastikan aksesibilitas 24/7. Apakah
                             Anda kesulitan mengekspresikan rasa sakit Anda atau mencari bantuan mendesak, situs web kami adalah
                             teman setia Anda.</p>
                     </div>
@@ -220,7 +220,7 @@
                         <h3><a href="service-details.html">Holistic Approach</a></h3>
                     </div>
                     <div class="ltn__feature-info">
-                        <p>Our website offers pesan yang jelas, halaman navigasi yang ramah pengguna. Apakah Anda mencari
+                        <p>Situs web kami menawarkan pesan yang jelas, halaman navigasi yang ramah pengguna. Apakah Anda mencari
                             konseling, sumber daya mandiri, atau koneksi komunitas, MindCare menyediakan
                             pengalaman yang holistik.</p>
                     </div>
@@ -233,7 +233,7 @@
 
                             <span><i class="fas fa-microscope"></i> </span>
                         </div>
-                        <h3><a href="service-details.html">Accessible Anytime, Anywhere</a></h3>
+                        <h3><a href="service-details.html">Akses Kapan Saja, di Mana Saja</a></h3>
                     </div>
                     <div class="ltn__feature-info">
                         <p>MindCare memastikan aksesibilitas 24/7. Apakah Anda kesulitan mengekspresikan rasa sakit
@@ -249,12 +249,12 @@
 
                             <span><i class="fas fa-stethoscope"></i> </span>
                         </div>
-                        <h3><a href="service-details.html">Expertly Curated Content</a></h3>
+                        <h3><a href="service-details.html">Konten yang Disusun dengan Ahli</a></h3>
                     </div>
                     <div class="ltn__feature-info">
-                        <p>MindCare’s website exudes a sense of tranquility, resonating with empathy. And
-                            diverse needs. Explore our niche-specific content, including books, games, and other
-                            mental health resources. </p>
+                        <p>Situs web MindCare memancarkan rasa ketenangan, bergema dengan empati. Dan
+                            kebutuhan yang beragam. Jelajahi konten spesifik niche kami, termasuk buku, permainan, dan lainnya
+                            sumber daya kesehatan mental. </p>
                     </div>
                 </div>
             </div>

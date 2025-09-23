@@ -9,7 +9,7 @@
                                 <img src="view/img/logokecil.png" alt="Logo">
                             </div>
                         </div>
-                        <p>MindCare makes caring for your mind simple and empowering.</p>
+                        <p>MindCare membuat merawat pikiran Anda menjadi sederhana dan memberdayakan.</p>
                         <div class="footer-address">
                             <ul>
                                 <li>
@@ -93,7 +93,7 @@
                 <div class="col-xl-3 col-md-6 col-sm-12 col-12">
                     <div class="footer-widget footer-newsletter-widget">
                         <h4 class="footer-title">Newsletter</h4>
-                        <p>Subscribe to our weekly Newsletter and receive updates via email.</p>
+                        <p>Berlangganan buletin mingguan kami dan terima pembaruan melalui email.</p>
                         <div class="footer-newsletter">
                             <form action="#">
                                 <input type="email" name="email" placeholder="Email*">

@@ -36,7 +36,7 @@
             <div class="card shadow-sm">
                 <div class="card-body text-start">
                     <div class="doctor-feedback">
-                        <h3>Send Your Question For Doctor Feedback</h3>
+                        <h3>Kirim Pertanyaan Anda Untuk Umpan Balik Dokter</h3>
                         <form action="{{ route('admin.doctorFeedbacks.store') }}" method="POST">
                             @csrf
                             <!-- Hidden inputs for user data -->
@@ -66,7 +66,7 @@
 
                     <div class="suggestion-section">
                         <br>
-                        <h3>Available Suggestions For You</h3>
+                        <h3>Saran yang Tersedia Untuk Anda</h3>
                         @if(!empty($suggestions))
                             <ul>
                                 @foreach($suggestions as $suggestion)
@@ -209,11 +209,11 @@
             <div class="card shadow-sm">
                 <div class="card-body text-start">
                     <div class="report-section">
-                        <h4>Generated Report</h4>
-                        <p><strong>Name:</strong> {{ $user->name }}</p>
-                        <p><strong>Age:</strong> {{ $user->age }} Years Old</p>
-                        <p><strong>Gender:</strong> {{ $user->gender }}</p>
-                        <p><strong>Occupation:</strong> {{ $user->occupation }}</p>
+                        <h4>Laporan yang Dihasilkan</h4>
+                        <p><strong>Nama:</strong> {{ $user->name }}</p>
+                        <p><strong>Umur:</strong> {{ $user->age }} Tahun</p>
+                        <p><strong>Jenis Kelamin:</strong> {{ $user->gender }}</p>
+                        <p><strong>Pekerjaan:</strong> {{ $user->occupation }}</p>
                         <div>
                             <div id="generated-report"></div>
                             {{-- <button class="btn btn-primary btn-sm" onclick="printReport()">Print Report</button> --}}
