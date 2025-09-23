@@ -92,7 +92,7 @@
                                     <ul>
                                         <li><a href="{{ route('index') }}">Home</a></li>
                                         @auth
-                                            <li><a href="{{ route('queryform') }}">Query Interface</a></li>
+                                            <li><a href="{{ route('queryform') }}">Assesment</a></li>
                                         @endauth
                                         <li><a href="{{ route('suggestions') }}">Suggestion</a></li>
                                         <li><a href="{{ route('symptoms') }}">Symptoms</a></li>

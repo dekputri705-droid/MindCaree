@@ -11,7 +11,7 @@
                             <ul>
                                 <li><a href="{{ route('queryform') }}"><span class="ltn__secondary-color"><i
                                                 class="fas fa-home"></i></span> Home</a></li>
-                                <li>Query Interface</li>
+                                <li>Assesment</li>
                             </ul>
                         </div>
                     </div>
@@ -25,7 +25,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="ltn__form-box contact-form-box box-shadow white-bg">
-                    <h2 class="title-2">Test Your Mental Health</h2>
+                    <h2 class="title-2">Uji Kesehatan Mental Anda</h2>
 
                     <form id="healthForm" action="{{ route('autoreport.post') }}" method="post">
 
@@ -33,218 +33,218 @@
 
                         <h2>Questions for Education Issues:</h2>
                         <div class="mb-3">
-                            <label for="student_q1">Have you been feeling unusually anxious or stressed about schoolwork or exams in the past two weeks?</label>
+                            <label for="student_q1">Apakah Anda merasa sangat cemas atau stres tentang pekerjaan sekolah atau ujian dalam dua minggu terakhir?</label>
                             <br>
-                            <input type="radio" name="student_q1" value="yes" required> Yes
-                            <input type="radio" name="student_q1" value="no" required> No
+                            <input type="radio" name="student_q1" value="yes" required> Ya
+                            <input type="radio" name="student_q1" value="no" required> Tidak
                             @error('student_q1')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="student_q2">Have you had trouble concentrating on your studies or completing assignments recently?</label>
+                            <label for="student_q2">Apakah Anda mengalami kesulitan berkonsentrasi pada pelajaran atau menyelesaikan tugas akhir-akhir ini?</label>
                             <br>
-                            <input type="radio" name="student_q2" value="yes" required> Yes
-                            <input type="radio" name="student_q2" value="no" required> No
+                            <input type="radio" name="student_q2" value="yes" required> Ya
+                            <input type="radio" name="student_q2" value="no" required> Tidak
                             @error('student_q2')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="student_q3">Have you lost interest in extracurricular activities or hobbies that you usually enjoy?</label>
+                            <label for="student_q3">Apakah Anda kehilangan minat pada kegiatan ekstrakurikuler atau hobi yang biasanya Anda nikmati?</label>
                             <br>
-                            <input type="radio" name="student_q3" value="yes" required> Yes
-                            <input type="radio" name="student_q3" value="no" required> No
+                            <input type="radio" name="student_q3" value="yes" required> Ya
+                            <input type="radio" name="student_q3" value="no" required> Tidak
                             @error('student_q3')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="student_q4">Have you been avoiding friends or social activities at university more than usual?</label>
+                            <label for="student_q4">Apakah Anda menghindari teman atau kegiatan sosial di universitas lebih dari biasanya?</label>
                             <br>
-                            <input type="radio" name="student_q4" value="yes" required> Yes
-                            <input type="radio" name="student_q4" value="no" required> No
+                            <input type="radio" name="student_q4" value="yes" required> Ya
+                            <input type="radio" name="student_q4" value="no" required> Tidak
                             @error('student_q4')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="student_q5">Have you felt overwhelmed by the academic workload or the pressure to perform well in university?</label>
+                            <label for="student_q5">Pernahkah Anda merasa kewalahan dengan beban kerja akademis atau tekanan untuk berprestasi baik di universitas?</label>
                             <br>
-                            <input type="radio" name="student_q5" value="yes" required> Yes
-                            <input type="radio" name="student_q5" value="no" required> No
+                            <input type="radio" name="student_q5" value="yes" required> Ya
+                            <input type="radio" name="student_q5" value="no" required> Tidak
                             @error('student_q5')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
 
-                        <h2>Questions for Family Issues:</h2>
+                        <h2>Pertanyaaan Untuk Masalah dalam Keluarga:</h2>
                         <div class="mb-3">
-                            <label for="family_q1">Have you experienced frequent conflicts or arguments with family members recently?</label>
+                            <label for="family_q1">Apakah Anda telah mengalami konflik atau argumen yang sering dengan anggota keluarga baru-baru ini?</label>
                             <br>
-                            <input type="radio" name="family_q1" value="yes" required> Yes
-                            <input type="radio" name="family_q1" value="no" required> No
+                            <input type="radio" name="family_q1" value="yes" required> Ya
+                            <input type="radio" name="family_q1" value="no" required> Tidak
                             @error('family_q1')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="family_q2">Do you feel unsupported or misunderstood by your family?</label>
+                            <label for="family_q2">Apakah Anda merasa tidak didukung atau disalahpahami oleh keluarga Anda?</label>
                             <br>
-                            <input type="radio" name="family_q2" value="yes" required> Yes
-                            <input type="radio" name="family_q2" value="no" required> No
+                            <input type="radio" name="family_q2" value="yes" required> Ya
+                            <input type="radio" name="family_q2" value="no" required> Tidak
                             @error('family_q2')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="family_q3">Have you been avoiding spending time at home or with family members more than usual?</label>
+                            <label for="family_q3">Apakah Anda sudah menghindari menghabiskan waktu di rumah atau dengan anggota keluarga lebih dari biasanya?</label>
                             <br>
-                            <input type="radio" name="family_q3" value="yes" required> Yes
-                            <input type="radio" name="family_q3" value="no" required> No
+                            <input type="radio" name="family_q3" value="yes" required> Ya
+                            <input type="radio" name="family_q3" value="no" required> Tidak
                             @error('family_q3')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="family_q4">Have family responsibilities been causing you significant stress or anxiety?</label>
+                            <label for="family_q4">Apakah tanggung jawab keluarga menyebabkan Anda stres atau kecemasan yang signifikan?</label>
                             <br>
-                            <input type="radio" name="family_q4" value="yes" required> Yes
-                            <input type="radio" name="family_q4" value="no" required> No
+                            <input type="radio" name="family_q4" value="yes" required> Ya
+                            <input type="radio" name="family_q4" value="no" required> Tidak
                             @error('family_q4')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="family_q5">Have you felt unsafe or uncomfortable in your home environment recently?</label>
+                            <label for="family_q5">Apakah Anda merasa tidak aman atau tidak nyaman di lingkungan rumah Anda baru-baru ini?</label>
                             <br>
-                            <input type="radio" name="family_q5" value="yes" required> Yes
-                            <input type="radio" name="family_q5" value="no" required> No
+                            <input type="radio" name="family_q5" value="yes" required> Ya
+                            <input type="radio" name="family_q5" value="no" required> Tidak
                             @error('family_q5')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
 
-                        <h2>Questions for Relationship Issues:</h2>
+                        <h2>Pertanyaan untuk Masalah Hubungan Sosial:</h2>
                         <div class="mb-3">
-                            <label for="relationship_q1">Have you been feeling disconnected or distant from your partner recently?</label>
+                            <label for="relationship_q1">Apakah Anda merasa terputus atau jauh dari pasangan Anda belakangan ini?</label>
                             <br>
-                            <input type="radio" name="relationship_q1" value="yes" required> Yes
-                            <input type="radio" name="relationship_q1" value="no" required> No
+                            <input type="radio" name="relationship_q1" value="yes" required> Ya
+                            <input type="radio" name="relationship_q1" value="no" required> Tidak
                             @error('relationship_q1')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="relationship_q2">Have you and your partner been having frequent arguments or disagreements?</label>
+                            <label for="relationship_q2">Apakah Anda dan pasangan Anda sering bertengkar atau tidak setuju?</label>
                             <br>
-                            <input type="radio" name="relationship_q2" value="yes" required> Yes
-                            <input type="radio" name="relationship_q2" value="no" required> No
+                            <input type="radio" name="relationship_q2" value="yes" required> Ya
+                            <input type="radio" name="relationship_q2" value="no" required> Tidak
                             @error('relationship_q2')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="relationship_q3">Do you feel unsupported or unappreciated in your relationship?</label>
+                            <label for="relationship_q3">Apakah Anda merasa tidak didukung atau tidak dihargai dalam hubungan Anda?</label>
                             <br>
-                            <input type="radio" name="relationship_q3" value="yes" required> Yes
-                            <input type="radio" name="relationship_q3" value="no" required> No
+                            <input type="radio" name="relationship_q3" value="yes" required> Ya
+                            <input type="radio" name="relationship_q3" value="no" required> Tidak
                             @error('relationship_q3')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="relationship_q4">Have you been avoiding spending time with your partner or communicating with them?</label>
+                            <label for="relationship_q4">Apakah kamu sudah menghindari menghabiskan waktu dengan pasanganmu atau berkomunikasi dengan mereka?</label>
                             <br>
-                            <input type="radio" name="relationship_q4" value="yes" required> Yes
-                            <input type="radio" name="relationship_q4" value="no" required> No
+                            <input type="radio" name="relationship_q4" value="yes" required> Ya
+                            <input type="radio" name="relationship_q4" value="no" required> Tidak
                             @error('relationship_q4')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="relationship_q5">Have you been questioning whether you want to continue your relationship?</label>
+                            <label for="relationship_q5">Apakah Anda telah mempertanyakan apakah Anda ingin melanjutkan hubungan Anda?</label>
                             <br>
-                            <input type="radio" name="relationship_q5" value="yes" required> Yes
-                            <input type="radio" name="relationship_q5" value="no" required> No
+                            <input type="radio" name="relationship_q5" value="yes" required> Ya
+                            <input type="radio" name="relationship_q5" value="no" required> Tidak
                             @error('relationship_q5')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
 
-                        <h2>Questions for Job Issues:</h2>
+                        <h2>Pertanyaan untuk Masalah Pekerjaan:</h2>
                         <div class="mb-3">
-                            <label for="job_q1">Have you been feeling unusually stressed or anxious about your job in the past two weeks?</label>
+                            <label for="job_q1">Apakah Anda merasa tidak biasa stres atau cemas tentang pekerjaan Anda dalam dua minggu terakhir?</label>
                             <br>
-                            <input type="radio" name="job_q1" value="yes" required> Yes
-                            <input type="radio" name="job_q1" value="no" required> No
+                            <input type="radio" name="job_q1" value="yes" required> Ya
+                            <input type="radio" name="job_q1" value="no" required> Tidak
                             @error('job_q1')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="job_q2">Have you had trouble concentrating or staying productive at work recently?</label>
+                            <label for="job_q2">Apakah Anda mengalami kesulitan untuk berkonsentrasi atau tetap produktif di tempat kerja baru-baru ini?</label>
                             <br>
-                            <input type="radio" name="job_q2" value="yes" required> Yes
-                            <input type="radio" name="job_q2" value="no" required> No
+                            <input type="radio" name="job_q2" value="yes" required> Ya
+                            <input type="radio" name="job_q2" value="no" required> Tidak
                             @error('job_q2')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="job_q3">Have you been feeling unappreciated or undervalued at your job?</label>
+                            <label for="job_q3">Apakah Anda merasa tidak dihargai atau dianggap remeh di pekerjaan Anda?</label>
                             <br>
-                            <input type="radio" name="job_q3" value="yes" required> Yes
-                            <input type="radio" name="job_q3" value="no" required> No
+                            <input type="radio" name="job_q3" value="yes" required> Ya
+                            <input type="radio" name="job_q3" value="no" required> Tidak
                             @error('job_q3')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="job_q4">Have you been avoiding work-related tasks or responsibilities more than usual?</label>
+                            <label for="job_q4">Apakah Anda telah menghindari tugas atau tanggung jawab yang terkait dengan pekerjaan lebih dari biasa?</label>
                             <br>
-                            <input type="radio" name="job_q4" value="yes" required> Yes
-                            <input type="radio" name="job_q4" value="no" required> No
+                            <input type="radio" name="job_q4" value="yes" required> Ya
+                            <input type="radio" name="job_q4" value="no" required> Tidak
                             @error('job_q4')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="job_q5">Have you been feeling overwhelmed by job demands or expectations?</label>
+                            <label for="job_q5">Apakah Anda merasa kewalahan akibat tuntutan atau harapan pekerjaan?</label>
                             <br>
-                            <input type="radio" name="job_q5" value="yes" required> Yes
-                            <input type="radio" name="job_q5" value="no" required> No
+                            <input type="radio" name="job_q5" value="yes" required> Ya
+                            <input type="radio" name="job_q5" value="no" required> Tidak
                             @error('job_q5')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
 
 
-                        <h2>Questions for Mental Health:</h2>
+                        <h2>Pertanyaan untuk Kesehatan Mental:</h2>
                         <div class="mb-3">
-                            <label for="mental_health_q1">Have you been feeling sad or hopeless more than usual in the past two weeks?</label>
+                            <label for="mental_health_q1">Apakah Anda merasa sedih atau putus asa lebih dari biasanya dalam dua minggu terakhir??</label>
                             <br>
-                            <input type="radio" name="mental_health_q1" value="yes" required> Yes
-                            <input type="radio" name="mental_health_q1" value="no" required> No
+                            <input type="radio" name="mental_health_q1" value="yes" required> Ya
+                            <input type="radio" name="mental_health_q1" value="no" required> Tidak
                             @error('mental_health_q1')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="mental_health_q2">Have you noticed changes in your sleep patterns (e.g., trouble sleeping, oversleeping)?</label>
+                            <label for="mental_health_q2">Apakah Anda telah memperhatikan perubahan dalam pola tidur Anda (misalnya, kesulitan tidur, tidur berlebihan)?</label>
                             <br>
-                            <input type="radio" name="mental_health_q2" value="yes" required> Yes
-                            <input type="radio" name="mental_health_q2" value="no" required> No
+                            <input type="radio" name="mental_health_q2" value="yes" required> Ya
+                            <input type="radio" name="mental_health_q2" value="no" required> Tidak
                             @error('mental_health_q2')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="mental_health_q3">Have you experienced a lack of energy or motivation to do things you usually enjoy?</label>
+                            <label for="mental_health_q3">Apakah Anda pernah mengalami kekurangan energi atau motivasi untuk melakukan hal-hal yang biasa Anda nikmati?</label>
                             <br>
-                            <input type="radio" name="mental_health_q3" value="yes" required> Yes
-                            <input type="radio" name="mental_health_q3" value="no" required> No
+                            <input type="radio" name="mental_health_q3" value="yes" required> Ya
+                            <input type="radio" name="mental_health_q3" value="no" required> Tidak
                             @error('mental_health_q3')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="mental_health_q4">Have you had thoughts of self-harm or suicide?</label>
+                            <label for="mental_health_q4">Apakah Anda pernah memiliki pikiran untuk melukai diri sendiri atau bunuh diri?</label>
                             <br>
-                            <input type="radio" name="mental_health_q4" value="yes" required> Yes
-                            <input type="radio" name="mental_health_q4" value="no" required> No
+                            <input type="radio" name="mental_health_q4" value="yes" required> Ya
+                            <input type="radio" name="mental_health_q4" value="no" required> Tidak
                             @error('mental_health_q4')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
                         <div class="mb-3">
-                            <label for="mental_health_q5">Do you feel overwhelmed by your emotions or find it hard to cope with stress?</label>
+                            <label for="mental_health_q5">Apakah Anda merasa kewalahan oleh emosi Anda atau merasa sulit untuk menghadapi stres?</label>
                             <br>
-                            <input type="radio" name="mental_health_q5" value="yes" required> Yes
-                            <input type="radio" name="mental_health_q5" value="no" required> No
+                            <input type="radio" name="mental_health_q5" value="yes" required> Ya
+                            <input type="radio" name="mental_health_q5" value="no" required> Tidak
                             @error('mental_health_q5')<span class="text-danger">{{ $message }}</span>@enderror
                         </div>
                         <br>
 
 
 
-                        <button type="submit" class="theme-btn-1 btn btn-effect-1 text-uppercase">Submit</button>
+                        <button type="submit" class="theme-btn-1 btn btn-effect-1 text-uppercase">Kirim</button>
                     </form>
                 </div>
             </div>

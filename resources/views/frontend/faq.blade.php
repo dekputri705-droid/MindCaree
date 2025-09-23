@@ -125,7 +125,7 @@
                         </div>
                     </div>
                     <div class="need-support text-center mt-100">
-                        <h2>Still need help? Reach out to support 24/7:</h2>
+                        <h2>Masih butuh bantuan? Hubungi dukungan 24/7:</h2>
                         <div class="btn-wrapper mb-30">
                             <a href="{{ route('contact') }}" class="theme-btn-1 btn btn-effect-1 text-uppercase">Contact Us</a>
                         </div>

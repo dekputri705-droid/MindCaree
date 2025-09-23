@@ -4,11 +4,11 @@
 <br>
 <div class="container">
     <div class="col-md-6">
-        <h3>Feedback Us</h3><br>
+        <h3>Umpan Balik Kami</h3><br>
         <form class="" data-parsley-validate method="POST" action="{{route('submit.feedback')}}">
             @csrf
             <div class="form-group">
-                <label for="exampleInputEmail1">Name*</label>
+                <label for="exampleInputEmail1">Nama*</label>
                 @guest
                 <input data-parsley-trigger="change" value="{{old('name')}}" required type="text" class="form-control"
                     id="exampleInputEmail1" name="name" aria-describedby="nameHelp" placeholder="Enter name">
@@ -35,14 +35,14 @@
                    
             </div>
             <div class="form-group">
-                Give Feedback* <br>
-                <input required type="radio" name="feedback" value="5"> Very Good<br>
-                <input required type="radio" name="feedback" value="4"> Good<br>
-                <input required type="radio" name="feedback" value="3"> Ok<br>
-                <input required type="radio" name="feedback" value="2"> Bad<br>
-                <input required type="radio" name="feedback" value="1"> Very Bad<br>
+                Beri Umpan Balik* <br>
+                <input required type="radio" name="feedback" value="5"> Sangat Baik<br>
+                <input required type="radio" name="feedback" value="4"> Baik<br>
+                <input required type="radio" name="feedback" value="3"> Oke<br>
+                <input required type="radio" name="feedback" value="2"> Buruk<br>
+                <input required type="radio" name="feedback" value="1"> Sangat Buruk<br>
             </div>
-            <button type="submit" class="btn btn-primary">Submit</button>
+            <button type="submit" class="btn btn-primary">Kirim</button>
         </form>
     </div>
 </div>

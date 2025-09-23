@@ -27,15 +27,15 @@
             <h3>{{ Auth::user()->name }}'s Queries and Responses</h3>
 
             @if($feedbacks->isEmpty())
-                <p>You have not submitted any feedback yet.</p>
+                <p>Anda belum mengirimkan umpan balik apapun.</p>
             @else
                 @foreach ($feedbacks as $feedback)
                     <div class="col-lg-4 col-sm-6 col-12 mb-4">
                         <!-- Feedback card start -->
                         <div class="card shadow-sm border-0">
                             <div class="card-body">
-                                <h6 class="card-title">{{ Auth::user()->name }}'s {{ $feedback->created_at->format('F d, Y') }} Report</h6>
-                                <h5 class="card-title">Overall Generated Score: {{ $feedback->overall_result }}</h5>
+                                <h6 class="card-title">{{ Auth::user()->name }}'s {{ $feedback->created_at->format('F d, Y') }} Laporkan</h6>
+                                <h5 class="card-title">Skor yang Dihasilkan Secara Keseluruhan: {{ $feedback->overall_result }}</h5>
 
                                 <!-- Status with color based on value -->
                                 <h5 class="card-title">
