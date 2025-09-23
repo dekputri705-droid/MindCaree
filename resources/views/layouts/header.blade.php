@@ -26,7 +26,7 @@
                         <div class="ltn__top-bar-menu">
                             <ul>
                                 <li><a href="mailto:dekputri705@gmail.com"><i class="icon-mail"></i>dekputri705@gmail.com</a></li>
-                                <li><a href="https://www.google.com/maps/place/Katasur,+Mohammadpur+1207,+Dhaka,+Bangladesh" target="_blank">
+                                <li><a href="https://maps.app.goo.gl/qWh6A1pj8W4RTCKKA" target="_blank">
                                     <i class="icon-placeholder"></i>Semarang, Indonesia
                                 </a></li>
                             </ul>
@@ -50,9 +50,9 @@
                                     <li>
                                         <div class="ltn__social-media">
                                             <ul>
-                                                <li><a href="https://www.facebook.com/pulokbiswas24Dec" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                                <li><a href="https://twitter.com/pulok_b" title="Twitter" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                                                <li><a href="https://www.instagram.com/me_pulok/" title="Instagram" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                                <li><a href="" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                                <li><a href="" title="Twitter" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                                                <li><a href="" title="Instagram" target="_blank"><i class="fab fa-instagram"></i></a></li>
                                             </ul>
                                         </div>
 
@@ -94,7 +94,7 @@
                                         @auth
                                             <li><a href="{{ route('queryform') }}">Assesment</a></li>
                                         @endauth
-                                        <li><a href="{{ route('suggestions') }}">Suggestion</a></li>
+                                        <li><a href="{{ route('suggestions') }}">Edukasi</a></li>
                                         <li><a href="{{ route('symptoms') }}">Symptoms</a></li>
                                         <li><a href="{{ route('about') }}">About</a></li>
                                         <li><a href="{{ route('faq') }}">FAQ</a></li>
@@ -165,9 +165,9 @@
             <ul>
                 <li><a href="{{ route('index') }}">Home</a></li>
                 @auth
-                    <li><a href="{{ route('queryform') }}">Query Interface</a></li>
+                    <li><a href="{{ route('queryform') }}">Refleksi Diri</a></li>
                 @endauth
-                <li><a href="{{ route('suggestions') }}">Suggestion</a></li>
+                <li><a href="{{ route('suggestions') }}">Edukasi</a></li>
                 <li><a href="{{ route('symptoms') }}">Symptoms</a></li>
                 <li><a href="{{ route('about') }}">About</a></li>
                 <li><a href="{{ route('faq') }}">FAQ</a></li>

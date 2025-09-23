@@ -176,8 +176,8 @@
                                 <li>
                                     <a href="#"><i class="icon-user"></i></a>
                                     <ul>
-                                        <li><a href="{{ route('login') }}">Sign in</a></li>
-                                        <li><a href="{{ route('register') }}">Register</a></li>
+                                        <li><a href="{{ route('login') }}">Masuk</a></li>
+                                        <li><a href="{{ route('register') }}">Daftar</a></li>
                                         <li><a href="#">My Account</a></li>
                                     </ul>
                                 </li>
@@ -220,8 +220,8 @@
                 <div class="ltn__utilize-menu">
                     <ul>
                         <li><a href="{{ route('index') }}">Home</a></li>
-                        <li><a href="{{ route('queryform') }}">Test</a></li>
-                        <li><a href="{{ route('suggestions') }}">Suggestion</a></li>
+                        <li><a href="{{ route('queryform') }}">Refleksi Diri</a></li>
+                        <li><a href="{{ route('suggestions') }}">Edukasi</a></li>
                         <li><a href="{{ route('symptoms') }}">Symptoms</a></li>
                         <li><a href="{{ route('about') }}">About</a></li>
                         <li><a href="{{ route('faq') }}">FAQ</a></li>
@@ -242,11 +242,11 @@
                 </div>
                 <div class="ltn__social-media-2">
                     <ul>
-                        <li><a href="https://www.facebook.com/pulokbiswas24Dec" title="Facebook"><i
+                        <li><a href="" title="Facebook"><i
                                     class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="https://twitter.com/pulok_b" title="Twitter"><i class="fab fa-twitter"></i></a>
+                        <li><a href="" title="Twitter"><i class="fab fa-twitter"></i></a>
                         </li>
-                        <li><a href="https://www.instagram.com/pulokbiswas_/" title="Instagram"><i
+                        <li><a href="" title="Instagram"><i
                                     class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
@@ -272,7 +272,7 @@
                                     <img src="view/img/logo.png" alt="Logo">
                                 </div>
                             </div>
-                            <p>MindCare makes caring for your mind simple and empowering.</p>
+                            <p>MindCare membuat merawat pikiran Anda menjadi sederhana dan memberdayakan.</p>
                             <div class="footer-address">
                                 <ul>
                                     <li>
@@ -304,13 +304,13 @@
                             </div>
                             <div class="ltn__social-media mt-20">
                                 <ul>
-                                    <li><a href="https://www.facebook.com/pulokbiswas24Dec" title="Facebook"><i
+                                    <li><a href="" title="Facebook"><i
                                                 class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="https://twitter.com/pulok_b" title="Twitter"><i
+                                    <li><a href="" title="Twitter"><i
                                                 class="fab fa-twitter"></i></a></li>
-                                    <li><a href="https://www.instagram.com/pulokbiswas_/" title="Instagram"><i
+                                    <li><a href="" title="Instagram"><i
                                                 class="fab fa-instagram"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/in/pulokbiswas/" title="Linkedin"><i
+                                    <li><a href="" title="Linkedin"><i
                                                 class="fab fa-linkedin"></i></a></li>
                                 </ul>
                             </div>
@@ -318,7 +318,7 @@
                     </div>
                     <div class="col-xl-2 col-md-6 col-sm-6 col-12">
                         <div class="footer-widget footer-menu-widget clearfix">
-                            <h4 class="footer-title">MindQuilo</h4>
+                            <h4 class="footer-title">MindCare</h4>
                             <div class="footer-menu">
                                 <ul>
                                     <li><a href="{{ route('about') }}">About</a></li>
@@ -333,7 +333,7 @@
                             <h4 class="footer-title">Services</h4>
                             <div class="footer-menu">
                                 <ul>
-                                    <li><a href="{{ route('login') }}">Login</a></li>
+                                    <li><a href="{{ route('login') }}">Masuk</a></li>
                                     <li><a href="#">My account</a></li>
                                     <li><a href="{{ route('about') }}">Terms & Conditions</a></li>
                                     <li><a href="{{ route('about') }}">Promotional Offers</a></li>
@@ -346,7 +346,7 @@
                             <h4 class="footer-title">Customer Care</h4>
                             <div class="footer-menu">
                                 <ul>
-                                    <li><a href="{{ route('login') }}">Login</a></li>
+                                    <li><a href="{{ route('login') }}">Masuk</a></li>
                                     <li><a href="#">My account</a></li>
                                     <li><a href="{{ route('faq') }}">FAQ</a></li>
                                     <li><a href="{{ route('contact') }}">Contact us</a></li>
@@ -357,7 +357,7 @@
                     <div class="col-xl-3 col-md-6 col-sm-12 col-12">
                         <div class="footer-widget footer-newsletter-widget">
                             <h4 class="footer-title">Newsletter</h4>
-                            <p>Subscribe to our weekly Newsletter and receive updates via email.</p>
+                            <p>Berlangganan buletin mingguan kami dan terima pembaruan melalui email.</p>
                             <div class="footer-newsletter">
                                 <form action="#">
                                     <input type="email" name="email" placeholder="Email*">

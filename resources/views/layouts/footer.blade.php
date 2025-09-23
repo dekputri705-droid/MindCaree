@@ -69,7 +69,7 @@
                         <h4 class="footer-title">Services</h4>
                         <div class="footer-menu">
                             <ul>
-                                <li><a href="{{ route('login') }}">Login</a></li>
+                                <li><a href="{{ route('login') }}">Masuk</a></li>
                                 <li><a href="{{ route('profilev') }}">My account</a></li>
                                 <li><a href="{{ route('about') }}">Terms & Conditions</a></li>
                                 <li><a href="{{ route('about') }}">Promotional Offers</a></li>
@@ -82,7 +82,7 @@
                         <h4 class="footer-title">Customer Care</h4>
                         <div class="footer-menu">
                             <ul>
-                                <li><a href="{{ route('login') }}">Login</a></li>
+                                <li><a href="{{ route('login') }}">Masuk</a></li>
                                 <li><a href="{{ route('profilev') }}">My account</a></li>
                                 <li><a href="{{ route('faq') }}">FAQ</a></li>
                                 <li><a href="{{ route('contact') }}">Contact us</a></li>
