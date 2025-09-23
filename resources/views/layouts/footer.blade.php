@@ -40,13 +40,13 @@
                         </div>
                         <div class="ltn__social-media mt-20">
                             <ul>
-                                <li><a href="https://www.facebook.com/pulokbiswas24Dec" title="Facebook"><i
+                                <li><a href="" title="Facebook"><i
                                             class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="https://twitter.com/pulok_b" title="Twitter"><i
+                                <li><a href="" title="Twitter"><i
                                             class="fab fa-twitter"></i></a></li>
-                                <li><a href="https://www.instagram.com/pulokbiswas_/" title="Instagram"><i
+                                <li><a href="" title="Instagram"><i
                                             class="fab fa-instagram"></i></a></li>
-                                <li><a href="https://www.linkedin.com/in/pulokbiswas/" title="Linkedin"><i
+                                <li><a href="" title="Linkedin"><i
                                             class="fab fa-linkedin"></i></a></li>
                             </ul>
                         </div>

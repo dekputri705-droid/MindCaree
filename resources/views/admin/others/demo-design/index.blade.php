@@ -12,7 +12,7 @@
                         <thead>
                             <tr>
                                 <th>Sl.</th>
-                                <th>Name</th>
+                                <th>Nama</th>
                                 <th>Email</th>
                                 <th>Action</th>
                             </tr>

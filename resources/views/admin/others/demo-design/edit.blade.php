@@ -12,7 +12,7 @@
                     @csrf
                     @method('PUT')
                     <div class="form-group">
-                        <label>Name</label>
+                        <label>Nama</label>
                         <input value="{{$admin->name}}" type="text" class="form-control" name="name" required>
                     </div>
                     <div class="form-group">
@@ -24,7 +24,7 @@
                             <i class="fas fa-plus-circle"></i> {{ __('Submit') }}
                         </button>
                         <a href="{{route('admin.admins.index')}}" class="btn btn-danger">
-                           <i class="fa fa-window-close" aria-hidden="true"></i> Cancel
+                           <i class="fa fa-window-close" aria-hidden="true"></i> Batal
                         </a>
                     </div>
                 </form>

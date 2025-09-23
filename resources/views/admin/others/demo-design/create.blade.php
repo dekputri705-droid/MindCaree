@@ -27,10 +27,10 @@
                     </div>
                     <div class="form-footer pt-4 pt-2 mt-4 border-top">
                         <button type="submit" class="btn btn-primary">
-                             <i class="fas fa-plus-circle"></i> Submit
+                             <i class="fas fa-plus-circle"></i> Kirim
                         </button>
                         <button type="submit" class="btn btn-danger">
-                             <i class="fa fa-window-close" aria-hidden="true"></i> Cancel
+                             <i class="fa fa-window-close" aria-hidden="true"></i> Batal
                         </button>
                     </div>
                 </form>
