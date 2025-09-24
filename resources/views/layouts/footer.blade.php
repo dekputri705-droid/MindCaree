@@ -103,8 +103,7 @@
                                 </div>
                             </form>
                         </div>
-                        <h5 class="mt-30">We Accept</h5>
-                        <img src="view/img/icons/payment-4.png" alt="Payment Image">
+            
                     </div>
                 </div>
             </div>
