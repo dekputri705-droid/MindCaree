@@ -92,8 +92,8 @@
                 </div>
                 <div class="col-xl-3 col-md-6 col-sm-12 col-12">
                     <div class="footer-widget footer-newsletter-widget">
-                        <h4 class="footer-title">Newsletter</h4>
-                        <p>Berlangganan buletin mingguan kami dan terima pembaruan melalui email.</p>
+                        <h4 class="footer-title">Saran Dan Kritik</h4>
+                        <p>Bantu kami menghadirkan layanan yang lebih baik melalui kritik dan saran Anda.</p>
                         <div class="footer-newsletter">
                             <form action="#">
                                 <input type="email" name="email" placeholder="Email*">
