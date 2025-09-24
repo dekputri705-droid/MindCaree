@@ -99,9 +99,9 @@
                     </div>
                     <div class="ltn__feature-info">
                         <h4><a href="service-details.html">Self-Assessment </a></h4>
-                        <p>Pada intinya, desain adalah cerita visual. MindCare menghadirkan suasana ketenangan
-                            melalui penggunaan warna yang lembut dan gambar yang menggugah. Biarkan elemen-elemen ini
-                            menciptakan suasana yang resonan dengan empati.</p>
+                        <p>Platform ini menyediakan tes psikologi singkat yang dapat diisi pengguna untuk membantu 
+                            mengenali kondisi mental mereka. Hasil dari self-assessment ini kemudian memberikan gambaran 
+                            awal serta rekomendasi langkah yang sesuai.</p>
                     </div>
                 </div>
             </div>
@@ -113,9 +113,10 @@
                     </div>
                     <div class="ltn__feature-info">
                         <h4><a href="service-details.html">Community Support</a></h4>
-                        <p>Pesan yang jelas, halaman navigasi yang ramah pengguna. Apakah Anda mencari
-                            konseling, sumber daya mandiri, atau koneksi komunitas, MindCare menyediakan
-                            pengalaman yang holistik.</p>
+                        <p>Platform ini menyediakan forum atau ruang diskusi berbasis grup Telegram, Whatsapp, dan Discord 
+                            yang dirancang sebagai tempat aman bagi pengguna untuk berbagi pengalaman. Melalui komunitas ini,
+                            pengguna dapat saling memberi semangat, memperoleh dukungan sejawat, 
+                            dan membangun rasa kebersamaan tanpa adanya stigma.</p>
                     </div>
                 </div>
             </div>
@@ -126,10 +127,10 @@
                         <img src="view/img/icons/icon-img/26.png" alt="#">
                     </div>
                     <div class="ltn__feature-info">
-                        <h4><a href="service-details.html">Content</a></h4>
-                        <p>Menyelam ke dalam konten khusus niche kami—buku, permainan, dan lainnya. MindCare setia
-                            mewakili kebutuhan kesehatan mental Anda, menarik klien baru yang mencari kualitas
-                            informasi dan dukungan.</p>
+                        <h4><a href="service-details.html">Content Edukasi </a></h4>
+                        <p>Platfrom ini menyediakan video edukasi YouTube dengan konsep gamifikasi yang membahas 
+                            topik manajemen stres, mindfulness, dan pola hidup sehat. Dengan kombinasi tersebut, pengguna dapat 
+                            belajar secara lebih menarik, interaktif, dan mudah dipahami.</p>
                     </div>
                 </div>
             </div>
@@ -171,7 +172,7 @@
                         <i class="flaticon-dining-table-with-chairs"></i>
                     </div>
                     <h1><span class="counter">100</span><span class="counterUp-icon">+</span> </h1>
-                    <h6>Cup Of Coffee</h6>
+                    <h6>Good of server</h6>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 align-self-center">

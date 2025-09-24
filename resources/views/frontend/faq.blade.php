@@ -130,7 +130,7 @@
                             <a href="{{ route('contact') }}" class="theme-btn-1 btn btn-effect-1 text-uppercase">Contact Us</a>
                         </div>
                         <h3><i class="fas fa-phone"></i>
-                            <a href="tel:+8801793651750">+8801793651750</a>
+                            <a href="tel:0812345678">0812345678</a>
                         </h3>
                     </div>
                 </div>
