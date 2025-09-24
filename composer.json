@@ -2,29 +2,24 @@
     "name": "laravel/laravel",
     "type": "project",
     "description": "The Laravel Framework.",
-    "keywords": [
-        "framework",
-        "laravel"
-    ],
+    "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
-        "guzzlehttp/guzzle": "^7.2",
-        "laravel/framework": "^9.19",
-        "laravel/sanctum": "^3.0",
-        "laravel/tinker": "^2.7",
         "appslabke/lara-izitoast": "^1.1",
         "barryvdh/laravel-snappy": "^1.0",
         "fideloper/proxy": "^4.4",
-        "filament/filament": "2.17",
+        "filament/filament": "3.0",
         "guzzlehttp/guzzle": "^7.2",
         "infyomlabs/adminlte-templates": "^5.0",
         "infyomlabs/laravel-generator": "^5.0",
         "intervention/image": "^2.5",
+        "laravel/breeze": "*",
         "laravel/framework": "^9.19",
         "laravel/sanctum": "^3.0",
         "laravel/socialite": "^5.1",
         "laravel/tinker": "^2.7",
+        "league/uri-parser": "^1.4",
         "spatie/laravel-activitylog": "^4.7",
         "spatie/laravel-backup": "^8.1",
         "spatie/laravel-html": "^3.2.0",
@@ -78,7 +73,8 @@
     "scripts": {
         "post-autoload-dump": [
             "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
-            "@php artisan package:discover --ansi"
+            "@php artisan package:discover --ansi",
+            "@php artisan filament:upgrade"
         ],
         "post-root-package-install": [
             "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
