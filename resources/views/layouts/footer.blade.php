@@ -14,7 +14,7 @@
                             <ul>
                                 <li>
                                     <div class="footer-address-icon">
-                                        <a href="https://www.google.com/maps/place/Katasur,+Mohammadpur+1207,+Dhaka,+Bangladesh" target="_blank">
+                                        <a href="https://maps.app.goo.gl/qWh6A1pj8W4RTCKKA" target="_blank">
                                             <i class="icon-placeholder"></i>Semarang, Indonesia
                                         </a>
                                     </div>

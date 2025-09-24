@@ -62,9 +62,9 @@
                                         <!-- ltn__social-media -->
                                         <div class="ltn__social-media">
                                             <ul>
-                                                <li><a href="https://www.facebook.com/pulokbiswas24Dec"
+                                                <li><a href=""
                                                         title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
-                                                <li><a href="https://twitter.com/pulok_b" title="Twitter"><i
+                                                <li><a href="" title="Twitter"><i
                                                             class="fab fa-twitter"></i></a></li>
                                                 <li><a href="https://www.instagram.com/pulokbiswas_/"
                                                         title="Instagram"><i class="fab fa-instagram"></i></a></li>
