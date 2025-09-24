@@ -25,7 +25,7 @@
 <body>
     <!-- HEADER AREA START (header-5) -->
     <header
-        class="ltn__header-area ltn__header-5 ltn__header-logo-and-mobile-menu-in-mobile--- ltn__header-logo-and-mobile-menu--- ltn__header-transparent gradient-color-4---">
+        class="ltn_header-area ltnheader-5 ltnheader-logo-and-mobile-menu-in-mobile--- ltnheader-logo-and-mobile-menu--- ltn_header-transparent gradient-color-4---">
         <!-- ltn__header-top-area start -->
         <div class="ltn__header-top-area border-bottom top-area-color-white---">
             <div class="container">
@@ -46,7 +46,7 @@
                                 <ul>
                                     <li>
                                         <!-- ltn__language-menu -->
-                                        <div class="ltn__drop-menu ltn__currency-menu ltn__language-menu">
+                                        {{-- <div class="ltn_drop-menu ltncurrency-menu ltn_language-menu">
                                             <ul>
                                                 <li><a href="#" class="dropdown-toggle"><span
                                                             class="active-currency">English</span></a>
@@ -56,7 +56,7 @@
                                                     </ul>
                                                 </li>
                                             </ul>
-                                        </div>
+                                        </div> --}}
                                     </li>
                                     <li>
                                         <!-- ltn__social-media -->
@@ -66,7 +66,7 @@
                                                         title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
                                                 <li><a href="" title="Twitter"><i
                                                             class="fab fa-twitter"></i></a></li>
-                                                <li><a href="https://www.instagram.com/pulokbiswas_/"
+                                                <li><a href=""
                                                         title="Instagram"><i class="fab fa-instagram"></i></a></li>
                                             </ul>
                                         </div>
@@ -81,7 +81,7 @@
         <!-- ltn__header-top-area end -->
         <!-- ltn__header-middle-area start -->
         <div
-            class="ltn__header-middle-area ltn__logo-right-menu-option ltn__header-row-bg-white ltn__header-padding ltn__header-sticky ltn__sticky-bg-white">
+            class="ltn_header-middle-area ltnlogo-right-menu-option ltnheader-row-bg-white ltnheader-padding ltnheader-sticky ltn_sticky-bg-white">
             <div class="container">
                 <div class="row">
                     <div class="col">
@@ -96,7 +96,7 @@
                                 </div>
                                 <div class="get-support-info">
                                     <h6>Get Support</h6>
-                                    <h4><a href="tel:+01793651750">01793651750</a></h4>
+                                    <h4><a href="tel:+0283924374973">0283924374973</a></h4>
                                 </div>
                             </div>
                         </div>
@@ -108,43 +108,45 @@
                                     <ul>
                                         <li><a href="{{ route('index') }}">Home</a></li>
                                         @auth
-                                            <li><a href="{{ route('queryform') }}">Query Interface</a></li>
+                                            <li><a href="{{ route('queryform') }}">Self-Assesment</a></li>
                                         @endauth
-                                        <li><a href="{{ route('suggestions') }}">Suggestion</a></li>
-                                        <li><a href="{{ route('symptoms') }}">Symptoms</a></li>
+                                        <li><a href="{{ route('suggestions') }}">Edukasi</a></li>
+                                        <li><a href="{{ route('symptoms') }}">Komunitas</a></li>
                                         <li><a href="{{ route('about') }}">About</a></li>
                                         <li><a href="{{ route('faq') }}">FAQ</a></li>
                                         <li><a href="{{ route('contact') }}">Contact</a></li>
                                         <!-- Authentication Links -->
                                         <!-- Authentication Links -->
-                                    @guest
-                                    @if (Route::has('login'))
-                                        <li><a href="{{ route('login') }}">{{ __('Login') }}</a></li>
-                                    @endif
-                                    @if (Route::has('register'))
-                                        <li><a href="{{ route('register') }}">{{ __('Register') }}</a></li>
-                                    @endif
-                                    @else
-                                    <li>
-                                        <a href="{{ route('profilev') }}" role="button" aria-haspopup="true" aria-expanded="false">
-                                            {{ Auth::user()->name }}
-                                        </a>
-                                        <ul>
-                                            <li><a href="{{ route('response') }}">{{ __('My Feedback') }}</a></li>
-
+                                        @guest
+                                            @if (Route::has('login'))
+                                                <li><a href="{{ route('login') }}">{{ __('Login') }}</a></li>
+                                            @endif
+                                            @if (Route::has('register'))
+                                                <li><a href="{{ route('register') }}">{{ __('Register') }}</a></li>
+                                            @endif
+                                        @else
                                             <li>
-                                                <a href="{{ route('logout') }}"
-                                                onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
-                                                    <i class="metismenu-icon pe-7s-back"></i>
-                                                    {{ __('Logout') }}
+                                                <a href="{{ route('profilev') }}" role="button" aria-haspopup="true"
+                                                    aria-expanded="false">
+                                                    {{ Auth::user()->name }}
                                                 </a>
-                                                <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
-                                                    @csrf
-                                                </form>
+                                                <ul>
+                                                    <li><a href="{{ route('response') }}">{{ __('My Feedback') }}</a></li>
+
+                                                    <li>
+                                                        <a href="{{ route('logout') }}"
+                                                            onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
+                                                            <i class="metismenu-icon pe-7s-back"></i>
+                                                            {{ __('Logout') }}
+                                                        </a>
+                                                        <form id="logout-form" action="{{ route('logout') }}"
+                                                            method="POST" style="display: none;">
+                                                            @csrf
+                                                        </form>
+                                                    </li>
+                                                </ul>
                                             </li>
-                                        </ul>
-                                    </li>
-                                    @endguest
+                                        @endguest
 
                                         <!-- End Authentication Links -->
                                     </ul>
@@ -152,7 +154,7 @@
                             </nav>
                         </div>
                     </div>
-                    <div class="col--- ltn__header-options ltn__header-options-2 mb-sm-20">
+                    <div class="col--- ltn_header-options ltn_header-options-2 mb-sm-20">
                         <!-- header-search-1 -->
                         <div class="header-search-wrap">
                             <div class="header-search-1">
@@ -190,7 +192,7 @@
         <!-- HEADER AREA END -->
         <!-- Mobile Menu Button -->
         <div class="mobile-menu-toggle d-xl-none">
-            <a href="#ltn__utilize-mobile-menu" class="ltn__utilize-toggle">
+            <a href="#ltn_utilize-mobile-menu" class="ltn_utilize-toggle">
                 <svg viewBox="0 0 800 600">
                     <path d="M300,220 C300,220 520,220 540,220 C740,220 640,540 520,420 C440,340 300,200 300,200"
                         id="top"></path>
@@ -202,11 +204,11 @@
         </div>
         <!-- ltn__header-middle-area end -->
         <!-- Utilize Mobile Menu Start -->
-        <div id="ltn__utilize-mobile-menu" class="ltn__utilize ltn__utilize-mobile-menu">
-            <div class="ltn__utilize-menu-inner ltn__scrollbar">
+        <div id="ltn_utilize-mobile-menu" class="ltnutilize ltn_utilize-mobile-menu">
+            <div class="ltn_utilize-menu-inner ltn_scrollbar">
                 <div class="ltn__utilize-menu-head">
                     <div class="site-logo">
-                        <a href="{{ route('index') }}"><img src="{{ asset('view/img/logo.png') }}"
+                        <a href="{{ route('index') }}"><img src="{{ asset('view/img/logokecil.png') }}"
                                 alt="Logo"></a>
                     </div>
                     <button class="ltn__utilize-close">×</button>
@@ -228,7 +230,7 @@
                         <li><a href="{{ route('contact') }}">Contact</a></li>
                     </ul>
                 </div>
-                <div class="ltn__utilize-buttons ltn__utilize-buttons-2">
+                <div class="ltn_utilize-buttons ltn_utilize-buttons-2">
                     <ul>
                         <li>
                             <a href="#" title="My Account">
@@ -242,12 +244,10 @@
                 </div>
                 <div class="ltn__social-media-2">
                     <ul>
-                        <li><a href="" title="Facebook"><i
-                                    class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
                         <li><a href="" title="Twitter"><i class="fab fa-twitter"></i></a>
                         </li>
-                        <li><a href="" title="Instagram"><i
-                                    class="fab fa-instagram"></i></a></li>
+                        <li><a href="" title="Instagram"><i class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -288,7 +288,7 @@
                                             <i class="icon-call"></i>
                                         </div>
                                         <div class="footer-address-info">
-                                            <p><a href="tel:+8801793651750">+8801793651750</a></p>
+                                            <p><a href="tel:+89576438726">+89576438726</a></p>
                                         </div>
                                     </li>
                                     <li>
@@ -304,14 +304,10 @@
                             </div>
                             <div class="ltn__social-media mt-20">
                                 <ul>
-                                    <li><a href="" title="Facebook"><i
-                                                class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="" title="Twitter"><i
-                                                class="fab fa-twitter"></i></a></li>
-                                    <li><a href="" title="Instagram"><i
-                                                class="fab fa-instagram"></i></a></li>
-                                    <li><a href="" title="Linkedin"><i
-                                                class="fab fa-linkedin"></i></a></li>
+                                    <li><a href="" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+                                    <li><a href="" title="Linkedin"><i class="fab fa-linkedin"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -356,8 +352,8 @@
                     </div>
                     <div class="col-xl-3 col-md-6 col-sm-12 col-12">
                         <div class="footer-widget footer-newsletter-widget">
-                            <h4 class="footer-title">Newsletter</h4>
-                            <p>Berlangganan buletin mingguan kami dan terima pembaruan melalui email.</p>
+                            <h4 class="footer-title">Kritik dan Saran</h4>
+                            <p>Bantu kami menghadirkan layanan yang lebih baik melalui kritik dan saran Anda.</p>
                             <div class="footer-newsletter">
                                 <form action="#">
                                     <input type="email" name="email" placeholder="Email*">
@@ -367,8 +363,7 @@
                                     </div>
                                 </form>
                             </div>
-                            <h5 class="mt-30">We Accept</h5>
-                            <img src="view/img/icons/payment-4.png" alt="Payment Image">
+                            
                         </div>
                     </div>
                 </div>
@@ -411,7 +406,7 @@
     <script src="{{ asset('view/js/bootstrap.bundle.min.js') }}"></script>
     <script src="{{ asset('view/js/plugins.js') }}"></script>
     <script src="{{ asset('view/js/main.js') }}"></script>
-    
+
 </body>
 
 </html>

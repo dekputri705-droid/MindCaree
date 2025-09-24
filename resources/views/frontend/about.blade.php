@@ -98,7 +98,7 @@
                         <img src="view/img/icons/icon-img/24.png" alt="#">
                     </div>
                     <div class="ltn__feature-info">
-                        <h4><a href="service-details.html">Desain Empatik</a></h4>
+                        <h4><a href="service-details.html">Self-Assessment </a></h4>
                         <p>Pada intinya, desain adalah cerita visual. MindCare menghadirkan suasana ketenangan
                             melalui penggunaan warna yang lembut dan gambar yang menggugah. Biarkan elemen-elemen ini
                             menciptakan suasana yang resonan dengan empati.</p>
@@ -112,7 +112,7 @@
                         <img src="view/img/icons/icon-img/25.png" alt="#">
                     </div>
                     <div class="ltn__feature-info">
-                        <h4><a href="service-details.html">Holistic Approach</a></h4>
+                        <h4><a href="service-details.html">Community Support</a></h4>
                         <p>Pesan yang jelas, halaman navigasi yang ramah pengguna. Apakah Anda mencari
                             konseling, sumber daya mandiri, atau koneksi komunitas, MindCare menyediakan
                             pengalaman yang holistik.</p>
